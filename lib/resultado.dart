@@ -8,7 +8,7 @@ class Resultado extends StatelessWidget {
 
   String get fraseResultado {
     if (pontuacao > 2) {
-      return 'Infinito???!!? *.* S2';
+      return 'Ama Infinito?!';
     } else if (pontuacao > 1) {
       return 'Você ama muito a Luísa!';
     } else {

@@ -9,7 +9,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
   int _pontuacaoTotal = 0;
   final _perguntas = const [
     {
-      'texto': 'Qual da seguinte imagens a PrinLu tinha apenas 2 meses?',
+      'texto': 'Qual imagem abaixo a PrinLu tinha apenas 2 meses?',
       'respostas': [
         {'texto': '1 Mes', 'img': 'luisa1', 'pontuacao': 1},
         {'texto': '2 Meses', 'img': 'luisa2', 'pontuacao': 0},
